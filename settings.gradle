@@ -1,0 +1,4 @@
+rootProject.name = 'big-data-example'
+include 'chapter28-Flink'
+include 'chapter14-Spark'
+
