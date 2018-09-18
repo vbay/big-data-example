@@ -23,7 +23,7 @@ $ git clone https://gitee.com/machinelearning/big-data-example.git
 需要学习的大数据技能基本都在这里了（大数据生态）
 
 ### 第一部分 大数据开篇
-- 第1章　[卜算子·大数据简介](./chapter1/1.卜算子·大数据简介.md)
+- 第1章　卜算子·大数据简介
 - 第2章　Linux
 - 第3章　大数据需要哪些编程语言基础
 
