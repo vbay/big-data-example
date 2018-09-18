@@ -1,4 +1,4 @@
-# 项目介绍(欢迎star)
+## 1.项目介绍(欢迎star)
 
 big-data-example 卜算子·大数据
 
@@ -6,16 +6,17 @@ big-data-example 卜算子·大数据
 
 项目基于Gradle构建，每个大数据组件都会独立为一个module。
 
-# 使用方式
+
+## 2.使用方式
+
 ```
 $ git clone https://gitee.com/machinelearning/big-data-example.git
-```
+
 
 导入Intellij IDEA， file -->open -->项目文件
 
-# 项目详细介绍
-
-## “卜算子·大数据”架构
+```
+## 3. “卜算子·大数据”架构
 
 知识宝贵的地方在于自成体系
 
